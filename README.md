@@ -3,8 +3,8 @@ More modification from no-online-gwent founded on reddit.  Added all cards to 5 
 
 #Gwent-Online - code below you will find in original place: https://github.com/exane/not-gwent-online
 - i just modify little code and set it little better.
-- You can just copy and overwrite my changes and they will work with old code: all folder "/build"  with PNG file and "/assets" folder.
-- or just dowloade all file from this repository 
+- You can just copy and overwrite my changes and they will work with old code: all folder "/build"  with PNG files and "/assets" folder.
+- or just download all files from this repository 
 
 #Introduction
 Not-Gwent-Online is a standalone multiplayer version of Gwent, a card game from The Witcher 3. 
