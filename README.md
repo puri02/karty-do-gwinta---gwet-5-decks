@@ -1,10 +1,4 @@
-# karty-do-gwinta---gwent-5-decks
-More modification from no-online-gwent founded on reddit.  Added all cards to 5 decks Skellige, Nillfgard, Northen, Monster and Scoiatele. Work realy nice
-
-#Gwent-Online - code below you will find in original place: https://github.com/exane/not-gwent-online
-- i just modify little code and set it little better.
-- You can just copy and overwrite my changes and they will work with old code: all folder "/build"  with PNG files and "/assets" folder.
-- or just download all files from this repository 
+#Gwent-Online
 
 #Introduction
 Not-Gwent-Online is a standalone multiplayer version of Gwent, a card game from The Witcher 3. 
